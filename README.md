@@ -48,16 +48,13 @@
 ### Executar Testes
 	Inicie o servidor appium no prompt
 		$ appium
-  ```
-  
-  
-  
-  
+		
 	Abra o Android Studio, clique em AVD Manager, abra o dispositivo que foi criado, deixe carregar completamente
 	
 	Abra o projeto pelo Eclipse: File, Open Projects from File System
 	Vá até a pasta com os arquivos .java, abra o arquivo, clique com o botão direito no código, escolha a opção Run As, Java Application
 	O sistema terá que apresentar o log no servidor Appium e executar a automação no simulador
+
 
 ### Resources
 
